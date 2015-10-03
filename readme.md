@@ -18,9 +18,8 @@ While you're working on your project, run:
 ```bash
 npm start
 ```
-
-To run the compiling process once, without watching any files, use the `build` command.
+or
 
 ```bash
-npm run build
+npm run dev
 ```
